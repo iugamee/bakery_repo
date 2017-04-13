@@ -19,7 +19,11 @@ body {
 	margin: 10px 0px 10px 5px;
 }
 #nav ul {
+<<<<<<< HEAD
 	background-color: blue;
+=======
+	background-color: green;
+>>>>>>> 1818934f185d9a09477f923c8ad51a0797899cb1
 	height: 52px;
 	width: 1080px;
 	padding-bottom: 8px;
