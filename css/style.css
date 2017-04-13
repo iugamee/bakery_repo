@@ -8,10 +8,10 @@
 #main_visual #link_btn {
 	position: absolute;
 	left: 15px;
-	bottom: 15px;
+	bottom: 30px;
 }
 #infolist dl {
-	line-height: 1.5;
+	line-height: 3;
 	margin: 0px;
 }
 #infolist dl dt {
@@ -39,7 +39,7 @@
 	margin-right: 0px;
 }
 #prodlist ul p {
-	font-size: 88%;
+	font-size: 100%;
 	color: #5b2204;
 }
 #prodlist ul .prod_name {
@@ -163,7 +163,7 @@
 	color: red;
 }
 #contact form #btn {
-	background-color: #dddddd;
+	background-color: red;
 	text-align: center;
 	padding: 15px;
 	margin-top: 8px;
