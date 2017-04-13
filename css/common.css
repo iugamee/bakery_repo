@@ -19,9 +19,9 @@ body {
 	margin: 10px 0px 10px 5px;
 }
 #nav ul {
-	background-color: #692f0c;
+	background-color: blue;
 	height: 52px;
-	width: 980px;
+	width: 1080px;
 	padding-bottom: 8px;
 }
 #nav ul li {
